@@ -2,7 +2,7 @@
 
 ### I aim to incorporate the "Code Rain" effect from The Matrix into my project to create a virtual world of present scenery.
 1. #### *Redrawing Scenery with Code Lines*: 
-##### utilizing the **density of code lines** to depict highlights and shadows in the scenery.
+##### utilizing the ***density of code lines*** to depict highlights and shadows in the scenery.
 ![1](readmeImages/1.jpg)
 ![2](readmeImages/2.jpg)
    
