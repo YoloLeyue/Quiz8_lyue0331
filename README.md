@@ -3,16 +3,16 @@
 ### I aim to incorporate the "Code Rain" effect from The Matrix into my project to create a virtual world of present scenery.
 1. #### *Redrawing Scenery with Code Lines*: 
 ##### utilizing the **density of code lines** to depict highlights and shadows in the scenery.
-![image1](readmeImages\1.jpg)
-![image2](readmeImages\2.jpg)
+![1](readmeImages\1.jpg)
+![2](readmeImages\2.jpg)
    
 2. #### *Continuous Motion of Falling Code*: 
 ##### using **controlled speed** to simulate the dynamic effect of raindrops with falling code lines.
-![image3](readmeImages\3.jpg)
+![3](readmeImages\3.jpg)
  
 3. #### *Interactive Experience with "Code Rain"*: 
 ##### **changing the direction of falling code** by touching it. Additionally, **the shape, speed, and color of code lines** can be altered through other interactive ways.
-![image4](readmeImages\4.jpg)
+![4](readmeImages\4.jpg)
 
 
 ### This code technique forming an ASCII art-like representation of the image:[example project Link](https://editor.p5js.org/codingtrain/sketches/LNBpdYQHP) 
@@ -25,4 +25,4 @@
 ##### **Second**, increase the index of the characters in a loop.
 3. #### *Control the Speed of Motion*:
 ##### Initialize the rate with frameRate() to ensure the characters move at a stable speed.
-![image5](readmeImages\5.jpg)
+![5](readmeImages\5.jpg)
